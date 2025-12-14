@@ -1,7 +1,19 @@
+##📅 Daily Learning AI Plan (TR 🇹🇷 & EN 🇬🇧)
 
-📅 Daily Learning AI Plan (TR 🇹🇷 & EN 🇬🇧)
+🇹🇷 Türkçe 
 
-| Gün    | 🇹🇷 Günlük Ödev                                                 | 🇬🇧 Daily Task                                          | 📌 Örnek (TR)                                   | 📌 Example (EN)                                 |
+Bu repository, yapay zekayı sıfırdan öğrenip onu kişisel bir asistana dönüştürmek için yürüttüğüm 14 günlük bilinçli keşif sürecini ve bu süreçte aldığım notları içerir.
+Amacım, yapay zekayı sadece kullanılan bir araç değil; düşünme, öğrenme ve üretme biçimimi güçlendiren bir yol arkadaşı haline getirmektir.
+
+EN English
+
+This repository captures a 14-day conscious exploration of learning AI from scratch and shaping it into a personal assistant, along with my notes from the process.
+My goal is to transform AI from a simple tool into a thinking partner that strengthens how I learn, create, and plan.
+
+
+
+
+| Gün    | 🇹🇷 Günlük Ödev                                                 | En Daily Task                                          | 📌 Örnek (TR)                                   | 📌 Example (EN)                                 |
 | ------ | ---------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | 1️⃣    | 🤖 Yapay zekanın ne olduğunu ve ne olmadığını öğren, kısa not al | 🤖 Learn what AI is and what it is not, take short notes | AI’ya “Bunu 10 yaşındaki birine anlat” diye sor | Ask AI: “Explain this like I’m 10 years old”    |
 | 2️⃣    | 🧠 Yapay zeka türlerini araştır (metin, görsel, kod)             | 🧠 Research AI types (text, image, code)                 | Aynı soruyu 2 farklı AI’ya sor                  | Ask the same question to two different AI tools |
