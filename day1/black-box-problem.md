@@ -3,7 +3,7 @@
 ### 🎬 Video Summary
 The Black Box Problem refers to the lack of transparency in AI algorithms (especially Deep Learning models). The model takes complex inputs and produces an output, but the process remains hidden.  
 
-**Video Suggestion:** [https://youtube.com/shorts/IEThNyx--kg?si=UK9uG8c7WG3zV11a](#)
+**Video Suggestion:** [AI Black Box Problem Video](https://youtube.com/shorts/IEThNyx--kg?si=UK9uG8c7WG3zV11a)
 
 ---
 
